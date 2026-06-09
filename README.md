@@ -89,7 +89,7 @@ This project was created to practice:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/shopping-cart-js.git
+git clone https://github.com/GustavoPGCordeiro/shopping-cart-js.git
 ```
 
 2. Open the project folder.
